@@ -42,10 +42,6 @@
       "description": "Your MongoDB URI",
       "value": ""
     },
-    "LOG_CHANNEL" : {
-      "description": "Your Log Channel id -100xxxxx",
-      "value": "-1001324096750"
-    },
     "SESSION_NAME": {
       "description": "Your Session Name",
       "value": "URL-UPLOADER"
