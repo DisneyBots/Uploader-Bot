@@ -42,7 +42,7 @@ async def viewthumbnail(bot, update):
         await bot.send_photo(
         chat_id=update.chat.id,
         photo=thumbnail,
-        caption=f"ʏᴏᴜʀ ᴛʜᴜᴍʙɴᴀɪʟ ɪs sᴀᴠᴇᴅ ✅",
+        caption=f"Yᴏᴜʀ ᴄᴜʀʀᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ",
         reply_to_message_id=update.message_id)
     else:
         await update.reply_text(text=f"ɴᴏ ᴛʜᴜᴍʙɴᴀɪʟ ғᴏᴜɴᴅ 😟")
