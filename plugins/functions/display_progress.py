@@ -11,15 +11,15 @@ from pyrogram.errors import FloodWait
 
 PROGRESS = """
 
-⏳ **Percentage:** `{0}%`
+**📱 Pʀᴏɢʀᴇꜱꜱ :** `{0}%`
 
-🚴‍♂️ **Done:** `{1}`
+**✅ Dᴏɴᴇ :** `{1}`
 
-🎚️ **Total:** `{2}`
+**🗂️ Sɪᴢᴇ  :** `{2}`
 
-🏍️ **Speed:** `{3}/s`
+**🚀 Sᴘᴇᴇᴅ :** `{3}/s`
 
-⏱️ **ETA:** `{4}`
+**⏱️ Eᴛᴀ :** `{4}`
 """
 
 async def progress_for_pyrogram(
@@ -42,8 +42,8 @@ async def progress_for_pyrogram(
         estimated_total_time = TimeFormatter(milliseconds=estimated_total_time)
 
         progress = "[{0}{1}] \n".format(
-            ''.join(["◼️" for _ in range(math.floor(percentage / 5))]),
-            ''.join(["◻️" for _ in range(20 - math.floor(percentage / 5))])
+            ''.join(["▣" for _ in range(math.floor(percentage / 5))]),
+            ''.join(["▢" for _ in range(20 - math.floor(percentage / 5))])
             )
 
         tmp = progress + PROGRESS.format(
