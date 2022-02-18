@@ -54,6 +54,8 @@ Pᴏᴡᴇʀᴇᴅ ʙʏ : [ᴅɪsɴᴇʏ ʙᴏᴛs](https://telegram.me/Disney_B
 """
     START_BUTTONS = InlineKeyboardMarkup(
         [[
+        InlineKeyboardButton(' ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ ?', url='https://youtu.be/nKzDUBzjU00')
+        ],
         InlineKeyboardButton(' ᴜᴘᴅᴀᴛᴇs', url='https://telegram.me/Disney_bots'),
         InlineKeyboardButton(' sᴜᴘᴘᴏʀᴛ', url='https://telegram.me/Disneybots_support')
         ],[
