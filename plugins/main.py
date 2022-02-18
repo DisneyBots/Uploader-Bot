@@ -106,7 +106,7 @@ Pᴏᴡᴇʀᴇᴅ ʙʏ : [ᴅɪsɴᴇʏ ʙᴏᴛs](https://telegram.me/Disney_B
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ᴄʟᴇᴀʀᴇᴅ sᴜᴄᴄᴇsғᴜʟʟʏ."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ ᴍᴇᴅɪᴀ ᴄʟᴇᴀʀᴇᴅ sᴜᴄᴄᴇsғᴜʟʟʏ."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
-    CUSTOM_CAPTION_UL_FILE = " /n <b>ᴊᴏɪɴ : @Disney_Bots </b>"
+    CUSTOM_CAPTION_UL_FILE = " <b>ᴊᴏɪɴ : @Disney_Bots </b>"
     NO_CUSTOM_THUMB_NAIL_FOUND = "ɴᴏ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ғᴏᴜɴᴅ."
     NO_VOID_FORMAT_FOUND = "ᴘʟᴇᴀsᴇ sᴇɴᴅ ᴀ ᴠᴀʟɪᴅ ᴜʀʟ"
     FILE_NOT_FOUND = "ᴇʀʀᴏʀ, ғɪʟᴇ ɴᴏᴛ ғᴏᴜɴᴅ!!"
